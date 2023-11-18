@@ -1,0 +1,47 @@
+body {
+    background: #fff;
+    color: #222;
+    font-family: arial,sans-serif;
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+  
+.logo {
+    text-align:center;
+    padding-top: 88px;
+    color: #2a5a5e;
+   
+   
+}
+.ustsag img{
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    
+}
+.ust {
+    width: 100%;
+    position: relative;
+    height: 33px;
+    display: flex;
+    padding: 0;
+}
+.ustsol {
+    position: relative;
+    text-align: center;
+
+}
+ .ustsag {
+    position: absolute;
+    right: 0;
+    text-align: center;
+ }
+ .arama {
+    text-align: center;
+    padding: 10px;
+   
+ }
